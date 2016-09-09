@@ -23,8 +23,8 @@ my.data$pnl$PorcRentDiaria <- my.data$pnl$PorcRentDiaria / 100
 # augment data (relational) -------------------------------------------------
 risk.dict <- read.csv('dictionary_risk.csv', stringsAsFactors = FALSE) %>%
   tbl_df() %>% mutate(AT13 = NULL)
-my.data$bulk.2 <- merge(tbl_df(my.data$bulk),risk.dict, by = 'AT12')
-my.data$bulk.2 <- tbl_df(my.data$bulk.2) %>%
+my.data$bulk <- merge(tbl_df(my.data$bulk),risk.dict, by = 'AT12')
+my.data$bulk <- tbl_df(my.data$bulk) %>%
   mutate(RiskClassExpo = sign(Valuacion) * Exposure * Risk.Type,
          RiskClassMargin = sign(Valuacion) * Margin * Risk.Type)
 
