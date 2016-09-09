@@ -1,0 +1,199 @@
+AT13,AT12,position,Risk Type
+Acciones Value,Fondo Alpha Architect,Long,Risk On
+Agricultures,Corn Futures,Long,Risk On
+Agricultures,Soybean Futures,Long,Risk On
+Agricultures,Wheat Futures,Long,Risk On
+Agricultures,Soybean Meal Futures,Long,Risk On
+Agricultures,Corn Futures,Long,Risk On
+Agricultures,Soybean Oil Futures,Long,Risk On
+Agricultures,Wheat Futures,Long,Risk On
+Bonds,US 10 Years T. Bond Futures,Long,Risk Off
+Bonds,Italian 10 Year Bond Futures,Long,Risk On
+Bonds,French 10 Year Bond Futures,Long,Risk On
+Bonds,Japanese 10 Year Bond Futures,Long,Risk Off
+Bonds,British  10 Year Bond Futures,Long,Risk On
+Bonds,Short Term Investment Grade Bo,Long,Risk Off
+Bonds,US Treasury Notes Etf,Long,Risk Off
+Bonds,Korean 3 Year Bond Futures,Long,Risk On
+Bonds,Germany 5 Year Bond Futures,Long,Risk Off
+Bonds,US Ultra Bond Futures,Long,Risk Off
+Bonds,US Treasury Bond Futures,Long,Risk Off
+Bonds,US 5 Years T. Bond Futures,Long,Risk Off
+Bonds,Short Term Gov Inv Grade Bond,Long,Risk Off
+Cash,Cash and Equivalents,Long,Risk Off
+Cash,Cash Margin Accounts,Long,Risk Off
+Commodities,Commodity Index Etf,Long,Risk On
+Currencies,Mexican Peso Futures,Long,Risk On
+Currencies,Swiss Franc Futures,Long,Risk Off
+Currencies,US Dollar (Korea) Futures,Long,Risk On
+Currencies,Yen Futures,Long,Risk Off
+Currencies,New Zealand  Dollar Futures,Long,Risk On
+Energy,Crude Oil Futures,Long,Risk On
+Energy,Heating Oil Futures,Long,Risk On
+Energy,Natural Gas Futures,Long,Risk On
+Energy,Brent Crude Futures,Long,Risk On
+Energy,Gasoline RBOB Futures,Long,Risk On
+Energy,Natural Gas Futures,Long,Risk On
+Energy,Heating Oil Futures,Long,Risk On
+Energy,Crude Oil Futures,Long,Risk On
+Equities,S&P 500 eMini Futures,Long,Risk On
+Equities,SPI 200 (Australia) Futures,Long,Risk On
+Equities,S&P MID 400 EMini Futures,Long,Risk On
+Equities,Swiss Market Index Futures,Long,Risk On
+Equities,Amsterdam Index Futures,Long,Risk On
+Equities,S&P/TSX 60 IX Futures,Long,Risk On
+Equities,Russell 2000 (US) Futures,Long,Risk On
+Equities,S&P 500 Etf,Long,Risk On
+Equities,Dax Index Futures,Long,Risk On
+Equities,Nasdaq 100 eMini Futures,Long,Risk On
+Equities,FTSE 100 (UK) Futures,Long,Risk On
+Equities,iShares MSCI Australia ETF,Long,Risk On
+Equities,iShares MSCI Germany ETF,Long,Risk On
+Equities,iShares MSCI Francia ETF,Long,Risk On
+Equities,iShares MSCI United Kingdom ET,Long,Risk On
+Equities (EM),Mini MSCI Emg Mkt Futures,Long,Risk On
+Equities (EM),Emerging Markets ETF,Long,Risk On
+Equities (EM),Harding Loevner Funds PLC,Long,Risk On
+Meats,Lean Hogs Futures,Long,Risk On
+Metals,Gold Futures,Long,Risk Off
+Metals,Copper Futures,Long,Risk Off
+Metals,Silver Futures,Long,Risk Off
+Metals,Palladium Futures,Long,Risk Off
+Metals,Platinum Futures,Long,Risk Off
+Money Markets,Money Markets,Long,Risk Off
+Real Estate,IYR Real Estate Etf,Long,Risk On
+Softs,Cotton Futures,Long,Risk On
+Softs,Coffee Futures,Long,Risk On
+Softs,Sugar Futures,Long,Risk On
+Softs,Cocoa Futures,Long,Risk On
+Softs,Coffee Futures,Long,Risk On
+Trend Following,IPM Systematic Macro Fund,Long,Neutral
+Trend Following,Lynx (Bermuda) Ltd. - Class D,Long,Neutral
+Trend Following,Alphaterra Fund SPC Ltd.,Long,Neutral
+Trend Following,Transtrend Fund Alliance,Long,Neutral
+Volatility,Vix Futures,Long,Risk Off
+Volatility,S&P Options,Long,Risk Off
+Acciones Value,Fondo Alpha Architect,Short,Risk Off
+Agricultures,Corn Futures,Short,Risk Off
+Agricultures,Soybean Futures,Short,Risk Off
+Agricultures,Wheat Futures,Short,Risk Off
+Agricultures,Soybean Meal Futures,Short,Risk Off
+Agricultures,Corn Futures,Short,Risk Off
+Agricultures,Soybean Oil Futures,Short,Risk Off
+Agricultures,Wheat Futures,Short,Risk Off
+Bonds,US 10 Years T. Bond Futures,Short,Risk On
+Bonds,Italian 10 Year Bond Futures,Short,Risk Off
+Bonds,French 10 Year Bond Futures,Short,Risk Off
+Bonds,Japanese 10 Year Bond Futures,Short,Risk On
+Bonds,British  10 Year Bond Futures,Short,Risk Off
+Bonds,Short Term Investment Grade Bo,Short,Risk On
+Bonds,US Treasury Notes Etf,Short,Risk On
+Bonds,Korean 3 Year Bond Futures,Short,Risk Off
+Bonds,Germany 5 Year Bond Futures,Short,Risk On
+Bonds,US Ultra Bond Futures,Short,Risk On
+Bonds,US Treasury Bond Futures,Short,Risk On
+Bonds,US 5 Years T. Bond Futures,Short,Risk On
+Bonds,Short Term Gov Inv Grade Bond,Short,Risk On
+Cash,Cash and Equivalents,Short,Risk On
+Cash,Cash Margin Accounts,Short,Risk On
+Commodities,Commodity Index Etf,Short,Risk Off
+Currencies,Mexican Peso Futures,Short,Risk Off
+Currencies,Swiss Franc Futures,Short,Risk On
+Currencies,US Dollar (Korea) Futures,Short,Risk Off
+Currencies,Yen Futures,Short,Risk On
+Currencies,New Zealand  Dollar Futures,Short,Risk Off
+Energy,Crude Oil Futures,Short,Risk Off
+Energy,Heating Oil Futures,Short,Risk Off
+Energy,Natural Gas Futures,Short,Risk Off
+Energy,Brent Crude Futures,Short,Risk Off
+Energy,Gasoline RBOB Futures,Short,Risk Off
+Energy,Natural Gas Futures,Short,Risk Off
+Energy,Heating Oil Futures,Short,Risk Off
+Energy,Crude Oil Futures,Short,Risk Off
+Equities,S&P 500 eMini Futures,Short,Risk Off
+Equities,SPI 200 (Australia) Futures,Short,Risk Off
+Equities,S&P MID 400 EMini Futures,Short,Risk Off
+Equities,Swiss Market Index Futures,Short,Risk Off
+Equities,Amsterdam Index Futures,Short,Risk Off
+Equities,S&P/TSX 60 IX Futures,Short,Risk Off
+Equities,Russell 2000 (US) Futures,Short,Risk Off
+Equities,S&P 500 Etf,Short,Risk Off
+Equities,Dax Index Futures,Short,Risk Off
+Equities,Nasdaq 100 eMini Futures,Short,Risk Off
+Equities,FTSE 100 (UK) Futures,Short,Risk Off
+Equities,iShares MSCI Australia ETF,Short,Risk Off
+Equities,iShares MSCI Germany ETF,Short,Risk Off
+Equities,iShares MSCI Francia ETF,Short,Risk Off
+Equities,iShares MSCI United Kingdom ET,Short,Risk Off
+Equities (EM),Mini MSCI Emg Mkt Futures,Short,Risk Off
+Equities (EM),Emerging Markets ETF,Short,Risk Off
+Equities (EM),Harding Loevner Funds PLC,Short,Risk Off
+Meats,Lean Hogs Futures,Short,Risk Off
+Metals,Gold Futures,Short,Risk On
+Metals,Copper Futures,Short,Risk On
+Metals,Silver Futures,Short,Risk On
+Metals,Palladium Futures,Short,Risk On
+Metals,Platinum Futures,Short,Risk On
+Money Markets,Money Markets,Short,Risk On
+Real Estate,IYR Real Estate Etf,Short,Risk Off
+Softs,Cotton Futures,Short,Risk Off
+Softs,Coffee Futures,Short,Risk Off
+Softs,Sugar Futures,Short,Risk Off
+Softs,Cocoa Futures,Short,Risk Off
+Softs,Coffee Futures,Short,Risk Off
+Trend Following,IPM Systematic Macro Fund,Short,Neutral
+Trend Following,Lynx (Bermuda) Ltd. - Class D,Short,Neutral
+Trend Following,Alphaterra Fund SPC Ltd.,Short,Neutral
+Trend Following,Transtrend Fund Alliance,Short,Neutral
+Volatility,Vix Futures,Short,Risk On
+Volatility,S&P Options,Short,Risk On
+Bonds,US 2 Years T. Bond Futures,Long,Risk Off
+Currencies,Canadian Dollar Futures,Long,Risk On
+Equities,KOSPI2 Index (Korea) Futures,Long,Risk On
+Currencies,British Pound Futures,Long,Risk Off
+Equities,FTSEMIB Index Futures,Long,Risk On
+Equities,IBEX 35 Index Futures,Long,Risk On
+Equities,Nikkei 225 Futures,Long,Risk On
+Equities,TOPIX (Japan Tech) Futures,Long,Risk On
+Meats,Feeder Cattle Futures,Long,Risk On
+Bonds,US 2 Years T. Bond Futures,Short,Risk On
+Currencies,Canadian Dollar Futures,Short,Risk Off
+Equities,KOSPI2 Index (Korea) Futures,Short,Risk Off
+Currencies,British Pound Futures,Short,Risk On
+Equities,FTSEMIB Index Futures,Short,Risk Off
+Equities,IBEX 35 Index Futures,Short,Risk Off
+Equities,Nikkei 225 Futures,Short,Risk Off
+Equities,TOPIX (Japan Tech) Futures,Short,Risk Off
+Meats,Feeder Cattle Futures,Short,Risk Off
+Meats,Live Cattle Futures,Long,Risk On
+Volatility,Vix Options,Long,Risk Off
+Meats,Live Cattle Futures,Short,Risk Off
+Volatility,Vix Options,Short,Risk On
+Equities,H-SHARES IDX Futures,Long,Risk On
+Equities,H-SHARES IDX Futures,Short,Risk Off
+Currencies,Australian Dollar Futures,Long,Risk On
+Currencies,Euro Futures,Long,Risk On
+Equities,DJIA Mini Futures,Long,Risk On
+Currencies,Dollar Futures,Long,Risk Off
+Currencies,Australian Dollar Futures,Short,Risk Off
+Currencies,Euro Futures,Short,Risk Off
+Equities,DJIA Mini Futures,Short,Risk Off
+Currencies,Dollar Futures,Short,Risk On
+Acciones Value,Equities,Long,Risk On
+Agricultures,Oat Futures,Long,Risk On
+Bonds,Corporate Bonds,Long,Risk On
+Bonds,Loans,Long,Risk On
+Currencies,Renminbi Structured Note,Long,Risk On
+Equities,NASDAQ 100 E-Mini Futures,Long,Risk On
+Managed Futures,CTA Fund,Long,Neutral
+Trend Following,IPMCredit,Long,Neutral
+Trend Following,TranstrendCredit,Long,Neutral
+Acciones Value,Equities,Short,Risk Off
+Agricultures,Oat Futures,Short,Risk Off
+Bonds,Corporate Bonds,Short,Risk Off
+Bonds,Loans,Short,Risk Off
+Currencies,Renminbi Structured Note,Short,Risk Off
+Equities,NASDAQ 100 E-Mini Futures,Short,Risk Off
+Managed Futures,CTA Fund,Short,Neutral
+Trend Following,IPMCredit,Short,Neutral
+Trend Following,TranstrendCredit,Short,Neutral
