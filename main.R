@@ -10,10 +10,10 @@ library(dplyr)
 data.raw <- list(pnl = readRDS(
   file.path(data.path,data.raw.files$pnl)) %>% tbl_df(),
   bulk = readRDS(
-  file.path(data.path,data.raw.files$bulk)) %>% tbl_df(),
+    file.path(data.path,data.raw.files$bulk)) %>% tbl_df(),
   familias = readRDS(
     file.path(data.path,data.raw.files$familias)) %>% tbl_df()
-  )
+)
 # tidy and clean -------------------------------------------------
 my.data <- data.raw
 names(my.data$bulk)[which(names(my.data$bulk) == 'Periodo')] <- 'Fecha'
@@ -25,8 +25,8 @@ risk.dict <- read.csv('dictionary_risk.csv', stringsAsFactors = FALSE) %>%
   tbl_df() %>% mutate(AT13 = NULL)
 my.data$bulk.2 <- merge(tbl_df(my.data$bulk),risk.dict, by = 'AT12')
 my.data$bulk.2 <- tbl_df(my.data$bulk.2) %>%
-mutate(RiskClassExpo = sign(Valuacion) * Exposure * Risk.Type,
-       RiskClassMargin = sign(Valuacion) * Margin * Risk.Type)
+  mutate(RiskClassExpo = sign(Valuacion) * Exposure * Risk.Type,
+         RiskClassMargin = sign(Valuacion) * Margin * Risk.Type)
 
 # Additional calculations -------------------------------------------------
 
