@@ -21,12 +21,18 @@ my.data$pnl$PorcRentDiaria <- my.data$pnl$PorcRentDiaria / 100
 
 
 # augment data (relational) -------------------------------------------------
+<<<<<<< HEAD
 risk.dict <- read.csv('dictionary_risk.csv', stringsAsFactors = FALSE) %>%
   tbl_df() %>% mutate(AT13 = NULL)
 my.data$bulk.2 <- merge(tbl_df(my.data$bulk),risk.dict, by = 'AT12')
 my.data$bulk.2 <- tbl_df(my.data$bulk.2) %>%
 mutate(RiskClassExpo = sign(Valuacion) * Exposure * Risk.Type,
        RiskClassMargin = sign(Valuacion) * Margin * Risk.Type)
+=======
+risk.dict <- read.csv('dictionary_risk.csv', stringsAsFactors = FALSE) %>% tbl_df() %>%
+  mutate(risk.type = paste(position,Risk.Type,sep = ' | '))
+
+>>>>>>> 343d03e8c6d60d47d86068a2ac429e5dbeebbafb
 
 # Additional calculations -------------------------------------------------
 
@@ -42,7 +48,10 @@ real.margin <- my.data$bulk %>%
   group_by(Fecha) %>%
   summarise_all(.funs = sum)
 names(real.margin) <- c('Fecha','Real.Margin')
+<<<<<<< HEAD
 
+=======
+>>>>>>> 343d03e8c6d60d47d86068a2ac429e5dbeebbafb
 risk.calcs <- merge(risk.calcs,real.margin, by = 'Fecha') %>% tbl_df() %>%
   mutate(leverage.ratio = Exposure / Valuacion,
          margin.ratio = Real.Margin / Valuacion)
