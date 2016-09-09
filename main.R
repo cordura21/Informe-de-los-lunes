@@ -28,6 +28,7 @@ my.data$bulk <- tbl_df(my.data$bulk) %>%
   mutate(RiskClassExpo = sign(Valuacion) * Exposure * Risk.Type,
          RiskClassMargin = sign(Valuacion) * Margin * Risk.Type)
 
+
 # Additional calculations -------------------------------------------------
 
 risk.calcs <- my.data$bulk %>%
